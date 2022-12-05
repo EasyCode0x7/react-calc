@@ -1,0 +1,34 @@
+.technologies {
+    width: 100px;
+    height: 100px;
+}
+
+.uno {
+    width: 10vh;
+    height: 11vh;
+    padding: 10px;
+    padding-bottom: 25px;
+}
+
+.portfolio {
+    font-size: 1.1em;
+}
+
+.igual {
+    display: inline-block;
+    width: 25vh;
+    height: 25vh;
+    border: 2px solid #ccc;
+    margin: 5px;
+}
+.igual div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.text p {
+    width: 80%;
+    margin: auto;
+}
+
