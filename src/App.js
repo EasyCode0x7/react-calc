@@ -133,7 +133,7 @@ function App() {
             </section>
 
         <footer>
-            <p>By: @Denichel</p>
+            <p>By: @Juan Alberto R. Santana</p>
         </footer>
 
         </main>
